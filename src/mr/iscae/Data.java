@@ -8,4 +8,5 @@ import mr.iscae.MemResource.Value;
 public  class Data {
 	Integer id;
 	Value v;
+	//edkl
 }
